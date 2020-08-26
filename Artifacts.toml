@@ -1,6 +1,6 @@
 [Xorg_glproto]
-git-tree-sha1 = "61e190bb00a8c3d7a8115c1c856ebe1995a82017"
+git-tree-sha1 = "ded08aec3019c136d5651212890625ae2cf1e02e"
 
     [[Xorg_glproto.download]]
-    sha256 = "2aa56e3f91cd7e494a92f4c8e7931edfbd2e4277961297eede6e6333e1f643a5"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_glproto_jll.jl/releases/download/Xorg_glproto-v1.4.17+1/Xorg_glproto.v1.4.17.any.tar.gz"
+    sha256 = "c427bdad36419389c4791a2d1a94f28e0e8c836b6c5b2163faf34245b466cce1"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_glproto_jll.jl/releases/download/Xorg_glproto-v1.4.17+2/Xorg_glproto.v1.4.17.any.tar.gz"
